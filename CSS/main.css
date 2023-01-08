@@ -1,0 +1,89 @@
+#akiliList {
+    color: blueviolet
+}
+
+#intro {
+    color: blueviolet
+}
+
+#why {
+    background-color: blueviolet;
+    font-size: medium;
+    color: black;
+
+}
+
+#why2 {
+    background-color: white;
+    font-size: medium;
+    display: block;
+}
+
+#why3 {
+    background-color: blueviolet;
+    font-size: medium;
+}
+
+#why4 {
+    background-color: blueviolet;
+    font-size: medium;
+}
+
+#why,
+#why2,
+#why3,
+#why4 {
+    border: dashed;
+}
+
+form {
+    padding: 15px;
+    background-color: blueviolet;
+    font-style: italic;
+    border-style: groove;
+    font-weight: 400;
+}
+
+input[type=button] :hover {
+    border: solid;
+    background-color: plum;
+}
+
+input[type=text]:focus {
+    background-color: blueviolet;
+    width: 100%;
+    transition: 2s;
+}
+
+input[type=button] {
+    color: rgb(239, 33, 102);
+}
+
+body {
+    background-color: plum
+}
+
+a {
+    color: purple;
+}
+
+ol {
+    font-size: 25px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+#video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#dog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
